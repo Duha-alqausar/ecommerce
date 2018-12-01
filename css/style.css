@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding : 0;
+    background: #262626;
+    font-family: arial;
+
+}
+.load{
+    position: absolute;
+    top : 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+.load h1{
+    margin: 0;
+    padding : 0;
+    text-transform: uppercase;
+    font-size: 10em;
+    color: rgba(255,255,255,.1);
+    background-image: url(kisspng-earth-supermoon-lunar-eclipse-solar-eclipse-full-m-moon-png-blue-hd-transparent-5ab0442bed7485.3887597915215012279726.png);
+    background-repeat: repeat-x;
+}
